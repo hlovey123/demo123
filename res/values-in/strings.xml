@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Petunjuk penggunaan</string>
+	<string name="leftbutton_text">Keluar</string>
+	<string name="current_page_text">halaman saat ini:</string>
+	<string name="title_name">Petunjuk penggunaan</string>
+</resources>

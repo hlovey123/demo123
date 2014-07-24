@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Manual</string>
+	<string name="leftbutton_text">Exit</string>
+	<string name="current_page_text">Current page:</string>
+	<string name="title_name">User manual</string>
+</resources>

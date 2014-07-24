@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="image_indonesian" translatable="false">
+        <item>m1</item>
+        <item>m2</item>
+        <item>m3</item>
+        <item>m4</item>
+        <item>m5</item>
+        <item>m6</item>
+        <item>m7</item>
+        <item>m8</item>
+        <item>m9</item>
+        <item>m10</item>
+        <item>m11</item>
+        <item>m12</item>
+        <item>m13</item>
+        <item>m14</item>
+        <item>m15</item>
+        <item>m16</item>
+        <item>m17</item>
+        <item>m18</item>
+        <item>m19</item>
+        <item>m20</item>
+        <item>m21</item>
+        <item>m22</item>
+        <item>m23</item>
+        <item>m24</item>
+        <item>m25</item>
+        <item>m26</item>
+        <item>m27</item>
+        <item>m28</item>
+        <item>m29</item>
+        <item>m30</item>
+        <item>m31</item>
+        <item>m32</item>
+        <item>m33</item>
+        <item>m34</item>
+        <item>m35</item>
+        <item>m36</item>
+        <item>m37</item>
+        <item>m38</item>
+    </string-array>
+    
+    <string-array name="image_english" translatable="false">
+        <item>e1</item>
+        <item>e2</item>
+        <item>e3</item>
+        <item>e4</item>
+        <item>e5</item>
+        <item>e6</item>
+        <item>e7</item>
+        <item>e8</item>
+        <item>e9</item>
+        <item>e10</item>
+        <item>e11</item>
+        <item>e12</item>
+        <item>e13</item>
+        <item>e14</item>
+        <item>e15</item>
+        <item>e16</item>
+        <item>e17</item>
+        <item>e18</item>
+        <item>e19</item>
+        <item>e20</item>
+        <item>e21</item>
+        <item>e22</item>
+        <item>e23</item>
+        <item>e24</item>
+        <item>e25</item>
+        <item>e26</item>
+        <item>e27</item>
+        <item>e28</item>
+        <item>e29</item>
+        <item>e30</item>
+        <item>e31</item>
+        <item>e32</item>
+        <item>e33</item>
+        <item>e34</item>
+        <item>e35</item>
+        <item>e36</item>
+    </string-array>
+</resources>

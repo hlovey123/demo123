@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">使用说明书</string>
+	<string name="leftbutton_text">退出</string>
+	<string name="current_page_text">当前页:</string>
+	<string name="title_name">使用说明书</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+    <kind id ="1">
+        <name>Settings_1</name>
+        <page>1</page>
+    </kind>
+    <kind id ="2">
+        <name>Settings_2</name>
+        <page>2</page>
+    </kind>
+    <kind id ="3">
+        <name>Settings_3</name>
+        <page>3</page>
+    </kind>
+    <kind id ="4">
+        <name>Settings_4</name>
+        <page>4</page>
+    </kind>
+    <kind id ="5">
+        <name>Settings_5</name>
+        <page>5</page>
+    </kind>
+</datas>

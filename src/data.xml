@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datas>
+    <kind id ="1">
+        <name>m1</name>
+        <page>1</page>
+    </kind>
+    <kind id ="2">
+        <name>m2</name>
+        <page>2</page>
+    </kind>
+    <kind id ="3">
+        <name>m3</name>
+        <page>3</page>
+    </kind>
+    <kind id ="4">
+        <name>m4</name>
+        <page>4</page>
+    </kind>
+    <kind id ="5">
+        <name>m5</name>
+        <page>5</page>
+    </kind>
+    <kind id ="6">
+        <name>m6</name>
+        <page>6</page>
+    </kind>
+    <kind id ="7">
+        <name>m7</name>
+        <page>7</page>
+    </kind>
+    <kind id ="8">
+        <name>m8</name>
+        <page>8</page>
+    </kind>
+    <kind id ="9">
+        <name>m9</name>
+        <page>9</page>
+    </kind>
+    <kind id ="10">
+        <name>m10</name>
+        <page>10</page>
+    </kind>
+    <kind id ="11">
+        <name>m11</name>
+        <page>11</page>
+    </kind>
+    <kind id ="12">
+        <name>m12</name>
+        <page>12</page>
+    </kind>
+    <kind id ="13">
+        <name>m13</name>
+        <page>13</page>
+    </kind>
+    <kind id ="14">
+        <name>m14</name>
+        <page>14</page>
+    </kind>
+    <kind id ="15">
+        <name>m15</name>
+        <page>15</page>
+    </kind>
+    <kind id ="16">
+        <name>m16</name>
+        <page>16</page>
+    </kind>
+    <kind id ="17">
+        <name>m17</name>
+        <page>17</page>
+    </kind>
+    <kind id ="18">
+        <name>m18</name>
+        <page>18</page>
+    </kind>
+    <kind id ="19">
+        <name>m19</name>
+        <page>19</page>
+    </kind>
+    <kind id ="20">
+        <name>m20</name>
+        <page>20</page>
+    </kind>
+    <kind id ="21">
+        <name>m21</name>
+        <page>21</page>
+    </kind>
+    <kind id ="22">
+        <name>m22</name>
+        <page>22</page>
+    </kind>
+    <kind id ="23">
+        <name>m23</name>
+        <page>23</page>
+    </kind>
+    <kind id ="24">
+        <name>m24</name>
+        <page>24</page>
+    </kind>
+</datas>
